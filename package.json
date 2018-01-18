@@ -1,0 +1,19 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "chat application using MEAN stack and websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrenikMensinkai/chat_application.git"
+  },
+  "author": "Shrenik Mensinkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrenikMensinkai/chat_application/issues"
+  },
+  "homepage": "https://github.com/ShrenikMensinkai/chat_application#readme"
+}
